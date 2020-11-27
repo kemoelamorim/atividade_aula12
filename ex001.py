@@ -25,3 +25,4 @@ print(f'IR 11%: R${imposto_de_renda}')
 print(f'INSS 8%: R${inss}')
 print(f'Sindicato 5%: R${sindicato}')
 print(f'Salário líquido: R${salario_liquido}')
+#devia ter usado so um print aki

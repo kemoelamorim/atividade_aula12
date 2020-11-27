@@ -64,3 +64,4 @@ elif litros_por_metros <= litros_galoes:
 
 if litros_sobra_lata > litros_galoes:
     pass
+#faltou a misturo dos dois tipos de tinta

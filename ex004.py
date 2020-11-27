@@ -11,5 +11,5 @@ for n in lista:
     if n // 1 == 1 and n%3 == 0:
         lista.append(n)
 
-
+#devia ter feito isso com tds os primos ate o 10 como eu fiz
 print(lista)
