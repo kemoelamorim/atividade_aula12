@@ -10,6 +10,7 @@ else:
     if a != b != c :
         print("Triâgulo Escalenno")
     if c == a == b:
+        #n sabia q dava pra comparar assism
         print("Triâgulo equilátero")
     elif a == b or b == c or a == c:
         print("Triâgulo isósceles")
